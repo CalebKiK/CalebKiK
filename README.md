@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Caleb Karimi
 - A passionate software developer focusing on web development and backend systems.
-- 👀 I’m interested in and enjoy solving complex problems and building scalable, efficient applications.
+- 👀 I enjoy solving complex problems and building scalable, efficient applications.
 - 🌱 I’m currently working on JavaScript, React, Python and Flask.
 - 💞️ I’m looking to collaborate on open-source projects, web development projects or anything that involves building scalable frontend or backend systems.
 - 😄 I am always open to working on new challenges and learning from others in collaborative environments.
