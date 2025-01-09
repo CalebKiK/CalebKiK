@@ -8,7 +8,7 @@
 - 📫 You can reach me at karimicaleb@gmail.com or via LinkedIn at Caleb Karimi.
 - ⚡ Fun fact: I love playing and watching football, and  also always excited to learn new things.
 
-**Technical skills**
+**Technical Skills**
 - **Frontend development**: JavaScript, HTML, CSS, React, Responsive design, WordPress.
 - Backend development: Python, Flask, Command Line Interface (CLI).
 - Database Management: PostgreSQL, SQLAlchemy.
