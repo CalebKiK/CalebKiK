@@ -8,6 +8,14 @@
 - 📫 You can reach me at karimicaleb@gmail.com or via LinkedIn at Caleb Karimi.
 - ⚡ Fun fact: I love playing and watching football, and  also always excited to learn new things.
 
+**Technical skills**
+• Frontend development: JavaScript, HTML, CSS, React, Responsive design.
+• Backend development: Python, Flask, Command Line Interface (CLI).
+• Database Management: PostgreSQL, SQLAlchemy.
+• Version Control and Collaboration: Git, GitHub
+• Tools & Technologies: RESTful APIs, Agile Methodology, Postman
+• Software Development: Object-Oriented Programming (OOP)
+
 <!---
 CalebKiK/CalebKiK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
