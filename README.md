@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I love playing and watching football, and  also always excited to learn new things.
 
 **Technical Skills**
-- Frontend development: JavaScript, HTML, CSS, React.js, Next.js, Responsive design, WordPress.
+- Frontend development: JavaScript, HTML, CSS, React, Next.js, Responsive design, WordPress.
 - Backend development: Python, Django, Flask, Command Line Interface (CLI).
 - Database Management: MySQL, PostgreSQL, SQLAlchemy.
 - Version Control and Collaboration: Git, GitHub
